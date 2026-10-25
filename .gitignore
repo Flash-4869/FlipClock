@@ -1,0 +1,9 @@
+# Build output
+*.exe
+
+# Dev capture artifacts
+shots*/
+
+# OS junk
+Thumbs.db
+Desktop.ini
